@@ -101,6 +101,7 @@
     {
       "name": "GTa VC Việt Hóa",
       "filename": "GTAVC.zip",
+      "images": "images/gtavc.png",
       "driveId": "1a_fiORx8TdyJpikBO55MBBjQJHmreFCf",
       "downloadUrl": "https://drive.google.com/file/d/1a_fiORx8TdyJpikBO55MBBjQJHmreFCf/view?usp=drivesdk",
       "size": "Unknown",
