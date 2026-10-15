@@ -50,7 +50,15 @@
       "downloadUrl": "https://drive.google.com/file/d/1LBh2srtvZYIDM1WfiYYivKKYg01l1Qt-/view?usp=drivesdk",
       "size": "69MB",
       "genre": "Platformer"
-    },   
+    },
+    {
+      "name": "Super Mario Strikers",
+      "filename": "Super Mario Strikers.zip",
+      "driveId": "1FTvd2Ne9lg05DFluk_Lh_jMSJk4-uJUP",
+      "downloadUrl": "https://drive.google.com/file/d/1FTvd2Ne9lg05DFluk_Lh_jMSJk4-uJUP/view?usp=drivesdk",
+      "size": "880MB",
+      "genre": "Platformer"
+    },
     {
       "name": "nazizombies",
       "filename": "nazizombies.zip",
