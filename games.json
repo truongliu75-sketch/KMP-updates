@@ -10,18 +10,18 @@
       "genre": "Port"
     },
     {
-      "name": "Celeste",
-      "filename": "Celeste.zip",
-      "driveId": "ID_GOOGLE_DRIVE_CELESTE",
-      "downloadUrl": "LINK_TAI_CELESTE",
+      "name": "Suzy Cup",
+      "filename": "Suzy Cup.zip",
+      "driveId": "rFb2pv8N",
+      "downloadUrl": "https://pixeldrain.com/api/file/rFb2pv8N?download",
       "size": "Unknown",
       "genre": "Platformer"
     },
     {
-      "name": "Sonic Mania",
-      "filename": "Sonic Mania.zip",
-      "driveId": "ID_GOOGLE_DRIVE_SONIC",
-      "downloadUrl": "LINK_TAI_SONIC",
+      "name": "Scott Pilgrim EX",
+      "filename": "Scott Pilgrim EX.zip",
+      "driveId": "sejKgaaR",
+      "downloadUrl": "https://pixeldrain.com/api/file/sejKgaaR?download",
       "size": "Unknown",
       "genre": "Platformer"
     },
