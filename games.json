@@ -6,8 +6,16 @@
       "filename": "Scott Pilgrim EX.zip",
       "driveId": "1SS26WdXaZ9iKZMXbe0tqwwEemxfaQE4K",
       "downloadUrl": "https://drive.google.com/file/d/1SS26WdXaZ9iKZMXbe0tqwwEemxfaQE4K/view?usp=drivesdk",
-      "size": "828.01 MB",
+      "size": "Unknown",
       "genre": "Port"
     }
+    {
+      "name": "Omgea Strike.",
+      "filename": "Omgea Strike.zip",
+      "driveId": "12231eikuoooVGaN22C3J9dwks0_kaMeB",
+      "downloadUrl": "https://drive.google.com/file/d/12231eikuoooVGaN22C3J9dwks0_kaMeB/view?usp=drivesdk",
+      "size": "Unknown",
+      "genre": "Port"
+    }    
   ]
 }
