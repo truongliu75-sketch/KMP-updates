@@ -24,7 +24,103 @@
       "downloadUrl": "https://pixeldrain.com/api/file/sejKgaaR?download",
       "size": "Unknown",
       "genre": "Platformer"
-    },      
+    },
+    {
+      "name": "Shovel Knight Treasure Trove",
+      "filename": "Shovel Knight Treasure Trove.zip",
+      "driveId": "1LBh2srtvZYIDM1WfiYYivKKYg01l1Qt-",
+      "downloadUrl": "https://drive.google.com/file/d/1LBh2srtvZYIDM1WfiYYivKKYg01l1Qt-/view?usp=drivesdk",
+      "size": "69MB",
+      "genre": "Platformer"
+    },   
+    {
+      "name": "nazizombies",
+      "filename": "nazizombies.zip",
+      "driveId": "1HzCD2LIcoiIvxX6WUWIJHabQ7f_eMkjo",
+      "downloadUrl": "https://drive.google.com/file/d/1HzCD2LIcoiIvxX6WUWIJHabQ7f_eMkjo/view?usp=drivesdk",
+      "size": "325M",
+      "genre": "Platformer"
+    },
+    {
+      "name": "Blazing Beaks",
+      "filename": "Blazing Beaks.zip",
+      "driveId": "1v80zICcH9qndhrr48UPGsplcDA6WUC-O",
+      "downloadUrl": "https://drive.google.com/file/d/1v80zICcH9qndhrr48UPGsplcDA6WUC-O/view?usp=drivesdk",
+      "size": "Unknown",
+      "genre": "Platformer"
+    },
+    {
+      "name": "Flynn: Son of Crimson",
+      "filename": "Flynn: Son of Crimson.zip",
+      "driveId": "1rzOsXrjqJ4mhc-1KwD6IpQVXgit7THtA",
+      "downloadUrl": "https://drive.google.com/file/d/1rzOsXrjqJ4mhc-1KwD6IpQVXgit7THtA/view?usp=drivesdk",
+      "size": "Unknown",
+      "genre": "Platformer"
+    },
+    {
+      "name": "Celeste",
+      "filename": "Celeste.zip",
+      "driveId": "1dtBa6x-vXyOKQCcC_MtYFwAksrCW-Mrl",
+      "downloadUrl": "https://drive.google.com/file/d/1dtBa6x-vXyOKQCcC_MtYFwAksrCW-Mrl/view?usp=drivesdk",
+      "size": "Unknown",
+      "genre": "Platformer"
+    },
+    {
+      "name": "GTa VC Việt Hóa",
+      "filename": "GTAVC.zip",
+      "driveId": "1a_fiORx8TdyJpikBO55MBBjQJHmreFCf",
+      "downloadUrl": "https://drive.google.com/file/d/1a_fiORx8TdyJpikBO55MBBjQJHmreFCf/view?usp=drivesdk",
+      "size": "Unknown",
+      "genre": "Platformer"
+    },
+    {
+      "name": "TMNTShreddersRevenge",
+      "filename": "TMNTShreddersRevenge.zip",
+      "driveId": "1KUDJiMag9Hc30iY4GFVQ0-oTV9lIAOK8",
+      "downloadUrl": "https://drive.google.com/file/d/1KUDJiMag9Hc30iY4GFVQ0-oTV9lIAOK8/view?usp=drivesdk",
+      "size": "Unknown",
+      "genre": "Platformer"
+    },     
+    {
+      "name": "GTA3 Việt Hóa",
+      "filename": "Gta3.zip",
+      "driveId": "1oPFSyM282vopsuqX-JZnCqHlwpp0tLPV",
+      "downloadUrl": "https://drive.google.com/file/d/1oPFSyM282vopsuqX-JZnCqHlwpp0tLPV/view?usp=drivesdk",
+      "size": "667MB",
+      "genre": "Platformer"
+    },
+    {
+      "name": "Balatro Việt hoá",
+      "filename": "Balatro.zip",
+      "driveId": "1UFTol_ECl0RJeRd1W5F0YmVd4pEiuUFS",
+      "downloadUrl": "https://drive.google.com/file/d/1UFTol_ECl0RJeRd1W5F0YmVd4pEiuUFS/view?usp=drivesdk",
+      "size": "Unknown",
+      "genre": "Platformer"
+    },          
+    {
+      "name": "Fares",
+      "filename": "Fares.zip",
+      "driveId": "1RLOFqazHmUElWC13mOJlyWgDGjcxyfSI",
+      "downloadUrl": "https://drive.google.com/file/d/1RLOFqazHmUElWC13mOJlyWgDGjcxyfSI/view?usp=drivesdk",
+      "size": "Unknown",
+      "genre": "Platformer"
+    },       
+    {
+      "name": "Gravity Circuit",
+      "filename": "Gravity Circuit.zip",
+      "driveId": "1gMOREtJSjYNEGyBEwf7eo4VpBP3oHGFh",
+      "downloadUrl": "https://drive.google.com/file/d/1gMOREtJSjYNEGyBEwf7eo4VpBP3oHGFh/view?usp=drivesdk",
+      "size": "Unknown",
+      "genre": "Platformer"
+    },       
+    {
+      "name": "Chasm",
+      "filename": "Chasm.zip",
+      "driveId": "1CjCZosABLnTFX68FF67l5zUC-1VA-Khn",
+      "downloadUrl": "https://drive.google.com/file/d/1CjCZosABLnTFX68FF67l5zUC-1VA-Khn/view?usp=drivesdk",
+      "size": "296MB",
+      "genre": "Platformer"
+    },       
     {
       "name": "DungeonSouls",
       "filename": "DungeonSouls.zip",
@@ -32,7 +128,15 @@
       "downloadUrl": "https://drive.google.com/file/d/1P_G-0SiUxCS28LSCPQ5yDOBq-Pj1Dabw/view?usp=drivesdk",
       "size": "Unknown",
       "genre": "Platformer"
-    },  
+    },
+    {
+      "name": "Iconoclasts",
+      "filename": "Iconoclasts.zip",
+      "driveId": "1lhcJluLcgR_GdOtJJlWI-PHhuhhECYEm",
+      "downloadUrl": "https://drive.google.com/file/d/1lhcJluLcgR_GdOtJJlWI-PHhuhhECYEm/view?usp=drivesdk",
+      "size": "Unknown",
+      "genre": "Platformer"
+    },   
     {
       "name": "Bleed",
       "filename": "Bleed.zip",
