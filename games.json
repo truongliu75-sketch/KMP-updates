@@ -24,12 +24,20 @@
       "downloadUrl": "https://pixeldrain.com/api/file/sejKgaaR?download",
       "size": "Unknown",
       "genre": "Platformer"
+    },    
+    {
+      "name": "Scott Pilgrim EX2",
+      "filename": "Scott Pilgrim EX.zip",
+      "driveId": "sejKgaaR",
+      "downloadUrl": "https://pixeldrain.com/api/file/sejKgaaR?download",
+      "size": "Unknown",
+      "genre": "Platformer"
     },
     {
-      "name": "Shovel Knight",
-      "filename": "Shovel Knight.zip",
-      "driveId": "ID_GOOGLE_DRIVE_SHOVEL",
-      "downloadUrl": "LINK_TAI_SHOVEL",
+      "name": "Chicken Invaders 4",
+      "filename": "Chicken Invaders 4.zip",
+      "driveId": "zMkiPhnv",
+      "downloadUrl": "https://pixeldrain.com/api/file/zMkiPhnv?download",
       "size": "Unknown",
       "genre": "Platformer"
     }
