@@ -100,10 +100,34 @@
       "genre": "Platformer"
     },
     {
+      "name": "DustElysianTail",
+      "filename": "DustElysianTail.zip",
+      "driveId": "1xm_iZEGxcUVyKzaTXrpQ2RRP4GP4jjx-",
+      "downloadUrl": "https://drive.google.com/file/d/1xm_iZEGxcUVyKzaTXrpQ2RRP4GP4jjx-/view?usp=drivesdk",
+      "size": "Unknown",
+      "genre": "Platformer"
+    },
+    {
       "name": "Beach Buggy Racing 1 and 2",
       "filename": "BBR12.zip",
       "driveId": "1q5mqbHPa60aulYQeXiHJriziLK-1FM1q",
       "downloadUrl": "https://drive.google.com/file/d/1q5mqbHPa60aulYQeXiHJriziLK-1FM1q/view?usp=drivesdk",
+      "size": "Unknown",
+      "genre": "Platformer"
+    },
+    {
+      "name": "Mega Man X Regenesis",
+      "filename": "Mega Man X Regenesis.zip",
+      "driveId": "1cFrjtR6zCeg05yitTnsxRfKS5IEU1eM-",
+      "downloadUrl": "https://drive.google.com/file/d/1cFrjtR6zCeg05yitTnsxRfKS5IEU1eM-/view?usp=drivesdk",
+      "size": "93MB",
+      "genre": "Platformer"
+    },
+    {
+      "name": "Forager Việt Hóa",
+      "filename": "FVH.zip",
+      "driveId": "1csxruDmIVDUt7bEFZqjLAJVTxadTYiO7",
+      "downloadUrl": "https://drive.google.com/file/d/1csxruDmIVDUt7bEFZqjLAJVTxadTYiO7/view?usp=drivesdk",
       "size": "Unknown",
       "genre": "Platformer"
     },
