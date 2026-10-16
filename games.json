@@ -267,7 +267,15 @@
       "downloadUrl": "https://drive.google.com/file/d/1jJuDr4uvHMnsawZNgwCaNbSCKon_lQCX/view?usp=drivesdk",
       "size": "828MB",
       "genre": "Platformer"
-    },           
+    },
+    {
+      "name": "Asphalt 7: Heat(Comming soon)",
+      "filename": "Asphalt 7: Heat.zip",
+      "driveId": "",
+      "downloadUrl": "",
+      "size": "Sắp có",
+      "genre": "Platformer"
+    },              
     {
       "name": "Fares",
       "filename": "Fares.zip",
