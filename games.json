@@ -76,14 +76,6 @@
       "genre": "Platformer"
     },
     {
-      "name": "Animal_Crossing_GC",
-      "filename": "Animal_Crossing_GC.zip",
-      "driveId": "1RXpCE51pPKphnLzAYrJfVo55TDgycBfn",
-      "downloadUrl": "https://drive.google.com/file/d/1RXpCE51pPKphnLzAYrJfVo55TDgycBfn/view?usp=drivesdk",
-      "size": "Unknown",
-      "genre": "Platformer"
-    },
-    {
       "name": "Blazing Beaks",
       "filename": "Blazing Beaks.zip",
       "driveId": "1v80zICcH9qndhrr48UPGsplcDA6WUC-O",
@@ -105,14 +97,6 @@
       "driveId": "1rzOsXrjqJ4mhc-1KwD6IpQVXgit7THtA",
       "downloadUrl": "https://drive.google.com/file/d/1rzOsXrjqJ4mhc-1KwD6IpQVXgit7THtA/view?usp=drivesdk",
       "size": "264MB",
-      "genre": "Platformer"
-    },
-    {
-      "name": "counter strike 1.6 ",
-      "filename": "counter strike 1.6.rar",
-      "driveId": "1wSFDpLNRqOzZ5ognemnPGMY9mhohlBdG",
-      "downloadUrl": "https://drive.google.com/file/d/1wSFDpLNRqOzZ5ognemnPGMY9mhohlBdG/view?usp=drivesdk",
-      "size": "386MB",
       "genre": "Platformer"
     },
     {
@@ -229,26 +213,10 @@
       "genre": "Platformer"
     },
     {
-      "name": "Katana Zero",
-      "filename": "Katanazeo.rar",
-      "driveId": "1RLOFqazHmUElWC13mOJlyWgDGjcxyfSI",
-      "downloadUrl": "https://drive.google.com/file/d/1RLOFqazHmUElWC13mOJlyWgDGjcxyfSI/view?usp=drivesdk",
-      "size": "660MB",
-      "genre": "Platformer"
-    },
-    {
       "name": "Asphalt 6",
       "filename": "Asphalt 6.zip",
       "driveId": "1nWGvgorJBhZIuXTyF5PNG5SaXsMMuBc8",
       "downloadUrl": "https://drive.google.com/file/d/1nWGvgorJBhZIuXTyF5PNG5SaXsMMuBc8/view?usp=drivesdk",
-      "size": "Unknown",
-      "genre": "Platformer"
-    },
-    {
-      "name": "Hyper Dragon Ball Z",
-      "filename": "Hyper Dragon Ball Z.rar",
-      "driveId": "1dQBZwR0hAX3nk22oET6qn8wt5KKHTpim",
-      "downloadUrl": "https://drive.google.com/file/d/1dQBZwR0hAX3nk22oET6qn8wt5KKHTpim/view?usp=drivesdk",
       "size": "Unknown",
       "genre": "Platformer"
     },
@@ -358,9 +326,9 @@
     },
     {
       "name": "Mina the hollower",
-      "filename": "Mina the hollower.rar",
-      "driveId": "1jEJrGLkDRB0WALlHKQbHRxAFRpzvsSam",
-      "downloadUrl": "https://drive.google.com/file/d/1jEJrGLkDRB0WALlHKQbHRxAFRpzvsSam/view?usp=drivesdk",
+      "filename": "Mina the hollower.zip",
+      "driveId": "1tTozhfjSD0oNOb7p1VEecBx8D12aFr5Q",
+      "downloadUrl": "https://drive.google.com/file/d/1tTozhfjSD0oNOb7p1VEecBx8D12aFr5Q/view?usp=drivesdk",
       "size": "746MB",
       "genre": "Platformer"
     }, 
