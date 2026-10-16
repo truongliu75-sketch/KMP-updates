@@ -233,15 +233,63 @@
       "filename": "Katanazeo.rar",
       "driveId": "1RLOFqazHmUElWC13mOJlyWgDGjcxyfSI",
       "downloadUrl": "https://drive.google.com/file/d/1RLOFqazHmUElWC13mOJlyWgDGjcxyfSI/view?usp=drivesdk",
+      "size": "660MB",
+      "genre": "Platformer"
+    },
+    {
+      "name": "Asphalt 6",
+      "filename": "Asphalt 6.zip",
+      "driveId": "1nWGvgorJBhZIuXTyF5PNG5SaXsMMuBc8",
+      "downloadUrl": "https://drive.google.com/file/d/1nWGvgorJBhZIuXTyF5PNG5SaXsMMuBc8/view?usp=drivesdk",
       "size": "Unknown",
       "genre": "Platformer"
-    },           
+    },
+    {
+      "name": "Hyper Dragon Ball Z",
+      "filename": "Hyper Dragon Ball Z.rar",
+      "driveId": "1dQBZwR0hAX3nk22oET6qn8wt5KKHTpim",
+      "downloadUrl": "https://drive.google.com/file/d/1dQBZwR0hAX3nk22oET6qn8wt5KKHTpim/view?usp=drivesdk",
+      "size": "Unknown",
+      "genre": "Platformer"
+    },
+    {
+      "name": "Ocean Heart Việt Hoá",
+      "filename": "OCVH.zip",
+      "driveId": "1frnvo-15zM81-jS9HcU4RCEca2bKXLUt",
+      "downloadUrl": "https://drive.google.com/file/d/1frnvo-15zM81-jS9HcU4RCEca2bKXLUt/view?usp=drivesdk",
+      "size": "Unknown",
+      "genre": "Platformer"
+    },
+    {
+      "name": "AVGN I & II Deluxe",
+      "filename": "AVGN I & II Deluxe.zip",
+      "driveId": "176qQ-epWA78Id50f0OBOrrgQLYlQc5KZ",
+      "downloadUrl": "https://drive.google.com/file/d/176qQ-epWA78Id50f0OBOrrgQLYlQc5KZ/view?usp=drivesdk",
+      "size": "Unknown",
+      "genre": "Platformer"
+    },
+    {
+      "name": "asphaltxtreme",
+      "filename": "asphaltxtreme.zip",
+      "driveId": "1TP841T5w8pxpl-TRBymZQtLns4_KrxRU",
+      "downloadUrl": "https://drive.google.com/file/d/1TP841T5w8pxpl-TRBymZQtLns4_KrxRU/view?usp=drivesdk",
+      "size": "2,4G",
+      "genre": "Platformer"
+    },
+    {
+      "name": "Horizon - Minigore2 - Spiderman 2",
+      "filename": "2026.zip",
+      "driveId": "1C5wsh7yFHWT7OloUjHF4NcnaLmU5iOcG",
+      "downloadUrl": "https://drive.google.com/file/d/1C5wsh7yFHWT7OloUjHF4NcnaLmU5iOcG/view?usp=drivesdk",
+      "size": "1,1G",
+      "genre": "Minigore 2 lỗi"
+    },              
     {
       "name": "Fares",
       "filename": "Fares.zip",
       "driveId": "1WM4Vjd1cFONezuGYjjDpfaUkgM8b43A7",
       "downloadUrl": "https://drive.google.com/file/d/1WM4Vjd1cFONezuGYjjDpfaUkgM8b43A7/view?usp=drivesdk",
-      "size": "660MB",
+      "size": "Unknown",
       "genre": "Platformer"
     },       
     {
