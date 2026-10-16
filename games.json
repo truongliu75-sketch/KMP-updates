@@ -283,7 +283,15 @@
       "downloadUrl": "https://drive.google.com/file/d/1C5wsh7yFHWT7OloUjHF4NcnaLmU5iOcG/view?usp=drivesdk",
       "size": "1,1G",
       "genre": "Minigore 2 lỗi"
-    },              
+    },
+    {
+      "name": "Freedom Planet 2",
+      "filename": "Freedom Planet 2.zip",
+      "driveId": "1we-add-h_DLA4vPPQ5IAh8BwAW50XXo4",
+      "downloadUrl": "https://drive.google.com/file/d/1we-add-h_DLA4vPPQ5IAh8BwAW50XXo4/view?usp=drivesdk",
+      "size": "256M",
+      "genre": "Platformer"
+    },            
     {
       "name": "Fares",
       "filename": "Fares.zip",
