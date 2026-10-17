@@ -2,14 +2,94 @@
   "version": 1,
   "images": [
     {
+      "name": "AVGN I & II Deluxe",
+      "file": "AVGN I & II Deluxe.JPG",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/AVGN%20I%20%26%20II%20Deluxe.JPG"
+    },
+    {
+      "name": "Asphalt 6",
+      "file": "Asphalt 6.JPG",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/Asphalt%206.JPG"
+    },
+    {
+      "name": "Asphalt 7 Heat (Jashyoyo)",
+      "file": "Asphalt 7 Heat (Jashyoyo).jpg",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/Asphalt%207%20Heat%20(Jashyoyo).jpg"
+    },
+    {
+      "name": "Balatro Việt hoá",
+      "file": "Balatro Việt hoá.jpg",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/Balatro%20Vi%E1%BB%87t%20ho%C3%A1.jpg"
+    },
+    {
+      "name": "Beach Buggy Racing 1 and 2",
+      "file": "Beach Buggy Racing 1 and 2.jpg",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/Beach%20Buggy%20Racing%201%20and%202.jpg"
+    },
+    {
+      "name": "Blazing Beaks",
+      "file": "Blazing Beaks.jpg",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/Blazing%20Beaks.jpg"
+    },
+    {
+      "name": "Bleed",
+      "file": "Bleed.jpg",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/Bleed.jpg"
+    },
+    {
+      "name": "Bleed2",
+      "file": "Bleed2.jpg",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/Bleed2.jpg"
+    },
+    {
+      "name": "Bully Anniversary Edition",
+      "file": "Bully Anniversary Edition.jpg",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/Bully%20Anniversary%20Edition.jpg"
+    },
+    {
+      "name": "Celeste",
+      "file": "Celeste.jpg",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/Celeste.jpg"
+    },
+    {
+      "name": "Chasm",
+      "file": "Chasm.jpg",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/Chasm.jpg"
+    },
+    {
+      "name": "Chicken Invaders 3",
+      "file": "Chicken Invaders 3.jpg",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/Chicken%20Invaders%203.jpg"
+    },
+    {
+      "name": "Chicken Invaders 4",
+      "file": "Chicken Invaders 4.jpg",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/Chicken%20Invaders%204.jpg"
+    },
+    {
       "name": "Dan The Man Unlock full",
       "file": "Dan The Man Unlock full.jpg",
       "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/Dan%20The%20Man%20Unlock%20full.jpg"
     },
     {
-      "name": "Scott Pilgrim EX",
-      "file": "Scott Pilgrim EX.jpg",
-      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/Scott%20Pilgrim%20EX.jpg.jpg"
+      "name": "DungeonSouls",
+      "file": "DungeonSouls.jpg",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/DungeonSouls.jpg"
+    },
+    {
+      "name": "DustElysianTail",
+      "file": "DustElysianTail.jpg",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/DustElysianTail.jpg"
+    },
+    {
+      "name": "Fares",
+      "file": "Fares.jpg",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/Fares.jpg"
+    },
+    {
+      "name": "Flynn Son of Crimson",
+      "file": "Flynn Son of Crimson.jpg",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/Flynn%20Son%20of%20Crimson.jpg"
     },
     {
       "name": "Forager Việt Hóa",
@@ -17,15 +97,154 @@
       "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/Forager%20Vi%E1%BB%87t%20H%C3%B3a.jpg"
     },
     {
+      "name": "Freedom Planet 2",
+      "file": "Freedom Planet 2.jpg",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/Freedom%20Planet%202.jpg"
+    },
+    {
+      "name": "GTA LCD PORT ANDROID",
+      "file": "GTA LCD PORT ANDROID.jpg",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/GTA%20LCD%20PORT%20ANDROID.jpg"
+    },
+    {
+      "name": "GTA3 Việt Hóa",
+      "file": "GTA3 Việt Hóa.jpg",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/GTA3%20Vi%E1%BB%87t%20H%C3%B3a.jpg"
+    },
+    {
+      "name": "GTa VC Việt Hóa",
+      "file": "GTa VC Việt Hóa.jpg",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/GTa%20VC%20Vi%E1%BB%87t%20H%C3%B3a.jpg"
+    },
+    {
+      "name": "GangstarMiamiVindication",
+      "file": "GangstarMiamiVindication.jpg",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/GangstarMiamiVindication.jpg"
+    },
+    {
+      "name": "GangstarRio",
+      "file": "GangstarRio.jpg",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/GangstarRio.jpg"
+    },
+    {
+      "name": "Geometry.Dash.SubZero",
+      "file": "Geometry.Dash.SubZero.jpg",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/Geometry.Dash.SubZero.jpg"
+    },
+    {
+      "name": "Gravity Circuit",
+      "file": "Gravity Circuit.jpg",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/Gravity%20Circuit.jpg"
+    },
+    {
+      "name": "Gta san việt hóa",
+      "file": "Gta san việt hóa.JPG",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/Gta%20san%20vi%E1%BB%87t%20h%C3%B3a.JPG"
+    },
+    {
+      "name": "Iconoclasts",
+      "file": "Iconoclasts.jpg",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/Iconoclasts.jpg"
+    },
+    {
+      "name": "Jetpack Joyride",
+      "file": "Jetpack Joyride.jpg",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/Jetpack%20Joyride.jpg"
+    },
+    {
+      "name": "Limbo",
+      "file": "Limbo.jpg",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/Limbo.jpg"
+    },
+    {
+      "name": "Mario Kart Wii",
+      "file": "Mario Kart Wii.jpg",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/Mario%20Kart%20Wii.jpg"
+    },
+    {
+      "name": "Mega Man X Regenesis",
+      "file": "Mega Man X Regenesis.jpg",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/Mega%20Man%20X%20Regenesis.jpg"
+    },
+    {
+      "name": "MercenaryKings",
+      "file": "MercenaryKings.jpg",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/MercenaryKings.jpg"
+    },
+    {
+      "name": "Mina the hollower",
+      "file": "Mina the hollower.jpg",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/Mina%20the%20hollower.jpg"
+    },
+    {
+      "name": "Modern Combat 4",
+      "file": "Modern Combat 4.jpg",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/Modern%20Combat%204.jpg"
+    },
+    {
+      "name": "Ocean Heart Việt Hoá",
+      "file": "Ocean Heart Việt Hoá.JPG",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/Ocean%20Heart%20Vi%E1%BB%87t%20Ho%C3%A1.JPG"
+    },
+    {
+      "name": "Oceanhorn Chronos Dungeon",
+      "file": "Oceanhorn Chronos Dungeon.jpg",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/Oceanhorn%20Chronos%20Dungeon.jpg"
+    },
+    {
+      "name": "Plant and Zombie",
+      "file": "Plant and Zombie.jpg",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/Plant%20and%20Zombie.jpg"
+    },
+    {
+      "name": "Project Xenon Valkyrie",
+      "file": "Project Xenon Valkyrie.jpg",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/Project%20Xenon%20Valkyrie.jpg"
+    },
+    {
       "name": "Scott Pilgrim EX",
       "file": "Scott Pilgrim EX.jpg",
       "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/Scott%20Pilgrim%20EX.jpg"
     },
     {
+      "name": "Shovel Knight Treasure Trove",
+      "file": "Shovel Knight Treasure Trove.jpg",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/Shovel%20Knight%20Treasure%20Trove.jpg"
+    },
+    {
+      "name": "Sparklite",
+      "file": "Sparklite.jpg",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/Sparklite.jpg"
+    },
+    {
+      "name": "Super Mario Strikers",
+      "file": "Super Mario Strikers.jpg",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/Super%20Mario%20Strikers.jpg"
+    },
+    {
       "name": "Suzy Cup",
       "file": "Suzy Cup.jpg",
       "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/Suzy%20Cup.jpg"
+    },
+    {
+      "name": "Swamp Attack 2",
+      "file": "Swamp Attack 2.jpg",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/Swamp%20Attack%202.jpg"
+    },
+    {
+      "name": "TMNTShreddersRevenge",
+      "file": "TMNTShreddersRevenge.jpg",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/TMNTShreddersRevenge.jpg"
+    },
+    {
+      "name": "asphaltxtreme",
+      "file": "asphaltxtreme.JPG",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/asphaltxtreme.JPG"
+    },
+    {
+      "name": "nazizombies",
+      "file": "nazizombies.jpg",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/nazizombies.jpg"
     }
   ]
 }
-
