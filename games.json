@@ -347,12 +347,20 @@
       "downloadUrl": "https://drive.google.com/file/d/1m-9M5SgoD-y8_4uqHdDyeRqdRxhbrvm8/view?usp=drivesdk",
       "size": "126MB",
       "genre": "Platformer"
-    },    
+    },
+    {
+      "name": "Insaniquarium Deluxe",
+      "filename": "Insaniquarium Deluxe.zip",
+      "driveId": "1WM4Vjd1cFONezuGYjjDpfaUkgM8b43A7",
+      "downloadUrl": "https://drive.google.com/file/d/1WM4Vjd1cFONezuGYjjDpfaUkgM8b43A7/view?usp=drivesdk",
+      "size": "Unknown",
+      "genre": "Platformer"
+    },  
     {
       "name": "Fares",
       "filename": "Fares.zip",
-      "driveId": "1WM4Vjd1cFONezuGYjjDpfaUkgM8b43A7",
-      "downloadUrl": "https://drive.google.com/file/d/1WM4Vjd1cFONezuGYjjDpfaUkgM8b43A7/view?usp=drivesdk",
+      "driveId": "1b-HAN9lL4Jcb5zTcVn3Jzq8E_QRU8MBI",
+      "downloadUrl": "https://drive.google.com/file/d/1b-HAN9lL4Jcb5zTcVn3Jzq8E_QRU8MBI/view?usp=drivesdk",
       "size": "Unknown",
       "genre": "Platformer"
     },       
@@ -367,9 +375,9 @@
     {
       "name": "chasm",
       "filename": "chasm.zip",
-      "driveId": "1TvoIrHr8gYPzrHlD73ys1KSBGcfcBVnC",
-      "downloadUrl": "https://drive.google.com/file/d/1TvoIrHr8gYPzrHlD73ys1KSBGcfcBVnC/view?usp=drivesdk",
-      "size": "546MB",
+      "driveId": "1NLJOoqPCHhA9JIC0VtIprSAQHCuaQPln",
+      "downloadUrl": "https://drive.google.com/file/d/1NLJOoqPCHhA9JIC0VtIprSAQHCuaQPln/view?usp=drivesdk",
+      "size": "557MB",
       "genre": "Platformer"
     },       
     {
