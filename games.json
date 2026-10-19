@@ -371,7 +371,15 @@
       "downloadUrl": "https://drive.google.com/file/d/1vHkGEyGdr89EUNh8dJglkTHkRHVKHNpN/view?usp=drivesdk",
       "size": "1GB",
       "genre": "Platformer"
-    },        
+    },
+    {
+      "name": "Gone Fishing 1.4 Việt Hóa",
+      "filename": "gonef.zip",
+      "driveId": "1K8J1SXte2sF-pD8QUDN2LqMtubDLO_fq",
+      "downloadUrl": "https://drive.google.com/file/d/1K8J1SXte2sF-pD8QUDN2LqMtubDLO_fq/view?usp=drivesdk",
+      "size": "52MB",
+      "genre": "Platformer"
+    },       
     {
       "name": "Fares",
       "filename": "Fares.zip",
