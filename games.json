@@ -363,7 +363,15 @@
       "downloadUrl": "https://drive.google.com/file/d/1StUDy4Hr2NICeXwxjLxZBd0OtiEGkDa2/view?usp=drivesdk",
       "size": "417MB",
       "genre": "Platformer"
-    },     
+    },
+    {
+      "name": "dead trigger 2",
+      "filename": "dead trigger 2.zip",
+      "driveId": "1vHkGEyGdr89EUNh8dJglkTHkRHVKHNpN",
+      "downloadUrl": "https://drive.google.com/file/d/1vHkGEyGdr89EUNh8dJglkTHkRHVKHNpN/view?usp=drivesdk",
+      "size": "1GB",
+      "genre": "Platformer"
+    },        
     {
       "name": "Fares",
       "filename": "Fares.zip",
