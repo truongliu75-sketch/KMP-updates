@@ -1,1 +1,18 @@
-1.0
+
+{
+  "notice_date": "20/10/2026",
+  "games": [
+    {
+      "game": "Asphalt 8",
+      "release_date": "Chưa biết",
+      "download_size": "Chưa rõ",
+      "cfw": "Darkos"
+    },
+    {
+      "game": "Chưa rõ",
+      "release_date": "Chưa biết",
+      "download_size": "Chưa rõ",
+      "cfw": "Darkos"
+    }
+  ]
+}
