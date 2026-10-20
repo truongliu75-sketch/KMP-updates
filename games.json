@@ -403,7 +403,15 @@
       "downloadUrl": "https://drive.google.com/file/d/1LbWoFsK69hGj8-nIh7p63ppibt3DBhGx/view?usp=drivesdk",
       "size": "269MB",
       "genre": "Platformer"
-    },  
+    },
+    {
+      "name": "Stardew Valley Việt Hóa",
+      "filename": "Stardew Valley.zip",
+      "driveId": "1WO1cU2C7PPud2m3eNOM5clBdjYDTHVg3",
+      "downloadUrl": "https://drive.google.com/file/d/1WO1cU2C7PPud2m3eNOM5clBdjYDTHVg3/view?usp=drivesdk",
+      "size": "427MB",
+      "genre": "Platformer"
+    },    
     {
       "name": "Fares",
       "filename": "Fares.zip",
