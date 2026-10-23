@@ -427,7 +427,23 @@
       "downloadUrl": "https://drive.google.com/file/d/1SzypvUpIgRsa_IrtkeJNFokDiYI-MNuo/view?usp=drivesdk",
       "size": "1.7GB",
       "genre": "Platformer"
-    }, 
+    },
+    {
+      "name": "Blasphemous",
+      "filename": "Blasphemous.zip",
+      "driveId": "11KP7VMxaqk6NUvkZMXSbojKyuXQ0b9Gq",
+      "downloadUrl": "https://drive.google.com/file/d/11KP7VMxaqk6NUvkZMXSbojKyuXQ0b9Gq/view?usp=drivesdk",
+      "size": "1.6GB",
+      "genre": "Platformer"
+    },
+    {
+      "name": "Strikers_Online",
+      "filename": "Strikers_Online.zip",
+      "driveId": "1IqT8ID3USioAZS9nyY3THWbX5QpycuSH",
+      "downloadUrl": "https://drive.google.com/file/d/1IqT8ID3USioAZS9nyY3THWbX5QpycuSH/view?usp=drivesdk",
+      "size": "1.6GB",
+      "genre": "Platformer"
+    },  
     {
       "name": "Fares",
       "filename": "Fares.zip",
