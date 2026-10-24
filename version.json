@@ -1,16 +1,16 @@
 {
-  "notice_date": "23/10/2026 ",
+  "notice_date": "24/10/2026 ",
   "games": [
     {
       "game": "Sonic Racing Transformed",
-      "release_date": "Unknow",
+      "release_date": "24/1/2026",
       "download_size": "Unknow",
       "cfw": "Darkos"
     }, 
     {
-      "game": "Oddworld-Strangers-Wrath",
-      "release_date": "23/10/2026",
-      "download_size": "680MB",
+      "game": "Cuphead",
+      "release_date": "24/10/2026",
+      "download_size": "1.1GB",
       "cfw": "Darkos"
     },
     {
