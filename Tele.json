@@ -1,1 +1,9 @@
-
+{
+  "games": [
+    {
+      "name": "Animal",
+      "filename": "animal.zip",
+      "url": "https://t.me/kmpdlanoser/3"
+    }
+  ]
+}
