@@ -8,6 +8,14 @@
       "downloadUrl": "https://drive.google.com/file/d/1RCMaXJbJh9dODTQDu7CwXntWA2qZ-_ee/view?usp=drivesdk",
       "size": "Unknown",
       "genre": "Port"
+    },   
+    {
+      "name": "Cuphead",
+      "filename": "Cuphead.zip",
+      "driveId": "",
+      "downloadUrl": "https://drive.google.com/file/d/1_hhOzwNblRWcKuhJO2hlZgfq45TI2OcJ/view?usp=drivesdk",
+      "size": "1.1GB",
+      "genre": "Platformer"
     },
     {
       "name": "Suzy Cup",
