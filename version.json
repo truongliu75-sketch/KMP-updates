@@ -1,5 +1,5 @@
 {
-  "notice_date": "25/10/2026 ",
+  "notice_date": "26/10/2026 ",
   "games": [
     {
       "game": "Sonic Racing Transformed",
@@ -8,10 +8,10 @@
       "cfw": "Darkos"
     }, 
     {
-      "game": "ittledew",
-      "release_date": "24/10/2026",
-      "download_size": "183MB",
-      "cfw": "Darkosen- Arkos"
+      "game": "DBZ Budokai Tenkaichi 3",
+      "release_date": "26/10/2026",
+      "download_size": "?GB",
+      "cfw": "Darkose"
     }
   ]
 }
