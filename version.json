@@ -2,9 +2,15 @@
   "notice_date": "26/10/2026 ",
   "games": [
     {
-      "game": "Sonic Racing Transformed",
-      "release_date": "24/1/2026",
-      "download_size": "Unknown",
+      "game": "NXT Youtube App",
+      "release_date": "2?/10/2026",
+      "download_size": "16MB",
+      "cfw": "Darkos"
+    }, 
+    {
+      "game": "KMP1.5",
+      "release_date": "24/10/2026",
+      "download_size": "16MB",
       "cfw": "Darkos"
     }, 
     {
