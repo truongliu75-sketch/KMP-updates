@@ -1,3 +1,2 @@
-# KMP-updates
-KMP game list game app update
-Tải về giải nén vào roms/port
+# KMP-1.5
+Giao diện hoàn toàn mới
