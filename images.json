@@ -25,7 +25,12 @@
       "name": "Yu-gi-oh! Joey the passion",
       "file": "yugi.png",
       "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/yugi.png"
-    },  
+    }, 
+    {
+      "name": "Undertale",
+      "file": "undertale.png",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/undertale.png"
+    },   
     {
       "name": "KMP1.5",
       "file": "KMP1.5.jpg",
