@@ -2,6 +2,22 @@
   "version": 1,
   "games": [
     {
+      "name": "Call of Duty BOD",
+      "filename": "CODBOZ.zip",
+      "driveId": "1vFF_Qz-zfHBKS3-yEmCNPd1sqjoIF57w",
+      "downloadUrl": "https://drive.google.com/file/d/1vFF_Qz-zfHBKS3-yEmCNPd1sqjoIF57w/view?usp=sharing",
+      "size": "381MB",
+      "genre": "Arkos"
+    },
+    {
+      "name": "Terraria",
+      "filename": "terraria.zip",
+      "driveId": "1s3CdeT5-yMjhvS3AfLd4jYZPGlIe_fsa",
+      "downloadUrl": "https://drive.google.com/file/d/1s3CdeT5-yMjhvS3AfLd4jYZPGlIe_fsa/view?usp=sharing",
+      "size": "353MB",
+      "genre": "Arkos"
+    },
+    {
       "name": "Counter-Strike",
       "filename": "Counter-Strike.zip",
       "driveId": "1znFrhB0ZEQniymMuhdfGPjs0XXfhJzgB",
