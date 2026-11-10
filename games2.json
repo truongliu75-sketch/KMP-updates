@@ -2,6 +2,30 @@
   "version": 1,
   "games": [
     {
+      "name": "granny",
+      "filename": "granny.zip",
+      "driveId": "1tqe71hM9kqEtZvyldeK4VK8wiXd5zSqO",
+      "downloadUrl": "https://drive.google.com/file/d/1tqe71hM9kqEtZvyldeK4VK8wiXd5zSqO/view?usp=sharing",
+      "size": "178MB",
+      "genre": "Arkos"
+    },
+    {
+      "name": "Shadowgun",
+      "filename": "shadowgun.zip",
+      "driveId": "1sWh5gpV-jobMD3YSAUXjZ9GCb-jgOSum",
+      "downloadUrl": "https://drive.google.com/file/d/1sWh5gpV-jobMD3YSAUXjZ9GCb-jgOSum/view?usp=sharing",
+      "size": "321MB",
+      "genre": "Arkos"
+    },
+    {
+      "name": "hungryshark",
+      "filename": "hungryshark.zip",
+      "driveId": "1hOoXuzVzm3FpbOKkzeYx19DZKZtL4TCn",
+      "downloadUrl": "https://drive.google.com/file/d/1hOoXuzVzm3FpbOKkzeYx19DZKZtL4TCn/view?usp=sharing",
+      "size": "115MB",
+      "genre": "Arkos"
+    },
+    {
       "name": "Call of Duty BOD",
       "filename": "CODBOZ.zip",
       "driveId": "1vFF_Qz-zfHBKS3-yEmCNPd1sqjoIF57w",
