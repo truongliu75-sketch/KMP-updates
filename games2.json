@@ -2,6 +2,22 @@
   "version": 1,
   "games": [
     {
+      "name": "Dragon Ball Tenkaichi Budokai 4.16",
+      "filename": "Dragon Ball Tenkaichi Budokai 4.zip",
+      "driveId": "1uon-5o3rRbcLU3Gu1_uG7q-iX-zfQByC",
+      "downloadUrl": "https://drive.google.com/file/d/1uon-5o3rRbcLU3Gu1_uG7q-iX-zfQByC/view?usp=sharing",
+      "size": "2.305BB",
+      "genre": "Arkos"
+    },
+    {
+      "name": "Minecraft1.16",
+      "filename": "Minecraft1.16.zip",
+      "driveId": "1E5ptj9_bOipN5uuFgo-cEO9SuDD2Gn2h",
+      "downloadUrl": "https://drive.google.com/file/d/1E5ptj9_bOipN5uuFgo-cEO9SuDD2Gn2h/view?usp=sharing",
+      "size": "424MB",
+      "genre": "Arkos"
+    },
+    {
       "name": "granny",
       "filename": "granny.zip",
       "driveId": "1tqe71hM9kqEtZvyldeK4VK8wiXd5zSqO",
