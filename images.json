@@ -2,6 +2,11 @@
   "version": 1,
   "images": [
     {
+      "name": "robberybob2",
+      "file": "robberybob2.png",
+      "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/robberybob2.png"
+    },
+    {
       "name": "Minecraft1.16",
       "file": "Minecraft1.16.jpg",
       "url": "https://raw.githubusercontent.com/truongliu75-sketch/KMP-updates/main/covers/Minecraft1.16.jpg"
