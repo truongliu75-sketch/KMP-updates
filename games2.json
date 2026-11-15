@@ -1,6 +1,14 @@
 {
   "version": 1,
   "games": [
+     {
+      "name": "zombie-tsunami",
+      "filename": "zombie-tsunami.zip",
+      "driveId": "1yT0bOjaYny4EKBES559A40ZIkZlK2Ysr",
+      "downloadUrl": "https://drive.google.com/file/d/1yT0bOjaYny4EKBES559A40ZIkZlK2Ysr/view?usp=sharing",
+      "size": "132MB",
+      "genre": "Darkos/DarkoEN"
+    },
     {
       "name": "robberybob2",
       "filename": "robberybob2.zip",
